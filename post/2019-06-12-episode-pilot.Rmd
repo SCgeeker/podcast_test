@@ -11,10 +11,9 @@ tags:
   - Power
   - p value
 podcast:
-  mp3: http://k007.kiwi6.com/hotlink/5uqqkft9qn/pocast-01-audio.mp3
-  duration: 52:20
+  mp3: https://soundcloud.com/sau-chin-chen/pocast-01-audio
+  duration: 77:45
 ---
 
-MP3 file repository: http://kiwi6.com/
 
-<iframe width="100%" scrolling="no" height="96" frameborder="no" src="http://kiwi6.com/tracks/widget/5uqqkft9qn"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/635868516&color=%23c7c4c3&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
