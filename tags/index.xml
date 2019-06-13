@@ -1,0 +1,36 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 華文開放科學</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on 華文開放科學</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Communication</title>
+      <link>/tags/communication/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power</title>
+      <link>/tags/power/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/power/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>p value</title>
+      <link>/tags/p-value/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/p-value/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

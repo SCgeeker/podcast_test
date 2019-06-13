@@ -1,0 +1,20 @@
+---
+title: Episode-pilot
+author: Sau-Chin Chen
+date: '2019-06-13'
+slug: episode-pilot
+categories:
+  - WE LOST
+  - podcast
+tags:
+  - Communication
+  - Power
+  - p value
+podcast:
+  mp3: http://k007.kiwi6.com/hotlink/5uqqkft9qn/pocast-01-audio.mp3
+  duration: 52:20
+---
+
+MP3 file repository: http://kiwi6.com/
+
+<iframe width="100%" scrolling="no" height="96" frameborder="no" src="http://kiwi6.com/tracks/widget/5uqqkft9qn"></iframe>

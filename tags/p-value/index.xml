@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>p value on 華文開放科學</title>
+    <link>/tags/p-value/</link>
+    <description>Recent content in p value on 華文開放科學</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/p-value/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Episode-pilot</title>
+      <link>/post/episode-pilot/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/post/episode-pilot/</guid>
+      <description>
+
+
+&lt;p&gt;MP3 file repository: &lt;a href=&#34;http://kiwi6.com/&#34; class=&#34;uri&#34;&gt;http://kiwi6.com/&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width=&#34;100%&#34; scrolling=&#34;no&#34; height=&#34;96&#34; frameborder=&#34;no&#34; src=&#34;http://kiwi6.com/tracks/widget/5uqqkft9qn&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
